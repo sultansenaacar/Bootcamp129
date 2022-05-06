@@ -7,8 +7,8 @@
 Scrum Master: Aycan Dağdelen <br/>
 Product Owner: Sultan Sena Acar <br/>
 Developer: Yiğit Kağan Karagöz <br/>
-Developer: Göktuğ Nadir YıLdız<br/>
-Developer: Buse Nur Karakaş<br/>
+Developer: Göktuğ Nadir YıLdız <br/>
+Developer: Buse Nur Karakaş <br/>
 
 
 # Ürün İsmi 
