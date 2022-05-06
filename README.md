@@ -4,11 +4,12 @@
  Team 129 
  
 # Takım Elemanları 
-Sultan Sena Acar <br/>
-Yiğit Kağan Karagöz <br/>
-Göktuğ Nadir YıLdız<br/>
-Buse Nur Karakaş<br/>
-Aycan Dağdelen <br/>
+Scrum Master: Aycan Dağdelen <br/>
+Product Owner: Sultan Sena Acar <br/>
+Developer: Yiğit Kağan Karagöz <br/>
+Developer: Göktuğ Nadir YıLdız<br/>
+Developer: Buse Nur Karakaş<br/>
+
 
 # Ürün İsmi 
 
